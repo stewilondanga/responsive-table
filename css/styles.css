@@ -131,10 +131,11 @@ h2 {
     display: table-cell;
   }
 
-  /*.fl-table tbody tr:nth-child(odd) {
-        background: none;
-    }
-    .fl-table tr:nth-child(even) {
+  .fl-table tbody tr:nth-child(odd) {
+    background: none;
+  }
+
+  /*  .fl-table tr:nth-child(even) {
         background: transparent;
     }
     .fl-table tr td:nth-child(odd) {
