@@ -77,13 +77,13 @@ h2 {
 }
 
 /* Responsive */
-/*
 @media (max-width: 767px) {
-    .fl-table {
-        display: block;
-        width: 100%;
-    }
-    .table-wrapper:before{
+  .fl-table {
+    display: block;
+    width: 100%;
+  }
+
+  /*  .table-wrapper:before{
         content: "Scroll horizontally >";
         display: block;
         text-align: right;
