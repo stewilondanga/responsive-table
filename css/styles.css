@@ -4,6 +4,12 @@
   -moz-box-sizing: border-box;
 }
 
+body {
+  font-family: Helvetica;
+  -webkit-font-smoothing: antialiased;
+  background: rgba(71, 147, 227, 1);
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -27,11 +33,6 @@
   height: 1.5em;
 }
 
-body{
-    font-family: Helvetica;
-    -webkit-font-smoothing: antialiased;
-    background: rgba( 71, 147, 227, 1);
-}
 h2{
     text-align: center;
     font-size: 18px;
